@@ -1,7 +1,6 @@
 body {
     background: linear-gradient(125deg, #0a0a2a, #1a0032, #0a0a2a);
     background-size: 400% 400%;
-    animation: galaxy 15s ease infinite;
     color: #e0e0ff;
     font-family: 'Exo 2', sans-serif;
     margin: 0;
@@ -25,8 +24,8 @@ h2 {
 }
 img {
     display: block;
-    width: 85%;
-    max-width: 800px;
+    width: 90%;
+    max-width: 900px;
     margin: 30px auto;
     border: 2px solid #4facfe;
     border-radius: 4px;
@@ -36,5 +35,5 @@ img {
     transition: all 0.5s ease;
     filter: brightness(1.1) contrast(1.1);
     object-fit: cover;
-    height: 600px;
+    height: 660px;
 }
